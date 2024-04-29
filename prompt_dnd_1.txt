@@ -1,0 +1,6 @@
+Prompt:
+Generate a detailed summary of a Dungeons & Dragons session based on the provided transcript. Pay attention to dialogue attribution, changes in inventory or quest progress, significant events, and exclude any irrelevant banter or out-of-character jokes. Ensure that the summary accurately captures the narrative elements provided by the Gamemaster, distinguishing between narrative details and NPC dialogue. Produce a comprehensive summary that provides enough context for future sessions and potential plot developments.
+
+Length: Please generate a detailed summary of the session, ensuring that it captures all essential details while maintaining clarity and coherence.
+         
+Transcript:

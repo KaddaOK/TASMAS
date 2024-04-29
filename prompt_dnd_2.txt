@@ -1,0 +1,6 @@
+Prompt:
+Given the following transcript of a D&D session, generate separate bulleted lists for each party member detailing specific events and experiences they encountered. 
+Additionally, provide a comprehensive list of all items that were exchanged or obtained, specifying their name, origin, and recipient. 
+Finally, include information about the scheduled upcoming sessions.
+         
+Transcript:

@@ -1,0 +1,4 @@
+whisper_timestamped==1.14.4
+auditok==0.2.0
+deepmultilingualpunctuation==1.0.1
+openai==1.23.6
